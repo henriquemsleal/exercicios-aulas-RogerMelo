@@ -1,2 +1,3 @@
 # exercicios-aulas-RogerMelo
- Prática das aulas de JavaScript Roger Melo
+
+Prática das aulas de JavaScript Canal Roger Melo, no Youtube.
